@@ -5,3 +5,4 @@ images for book covers was downloaded from unplash.
 call to action buttons active and responsive, images have a tooltips attribute. 
 Review section for comments and readers concept has been updated. 
 
+![Web capture_5-6-2023_212535_cosmic-mermaid-2b169a netlify app](https://github.com/lotsun/Milk-and-Honey-/assets/50834895/38b4b64b-75a8-4c04-8ee5-dc688e3b11c6)
